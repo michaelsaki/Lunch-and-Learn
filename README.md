@@ -16,8 +16,6 @@ git clone https://github.com/michaelsaki/github-lunch-and-learn.git
 
 Here's what you'll find in this repository:
 
-- `code/`: This directory contains some sample code files to demonstrate how to use GitHub for collaboration and version control.
-- `docs/`: This directory contains additional documentation and resources to help you get started with using GitHub.
 - `LICENSE`: This file specifies the terms under which you can use and modify the code in this repository.
 - `README.md`: This file provides an overview of the repository and instructions on how to use it.
 
